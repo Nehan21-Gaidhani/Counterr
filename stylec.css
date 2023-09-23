@@ -1,0 +1,17 @@
+.container{
+    justify-content: center;
+   /* background-color: aliceblue;*/
+    text-align: center;
+    height:280px;
+    width:280px;
+    font-size: 40px;
+    margin-left:350px;
+    margin-top: 80px;
+    background-image: linear-gradient(aliceblue,blue);
+}
+
+.btn1,.btn2,.btn3{
+    /*background-color: bisque;
+    height:50px;
+    width: 70px;*/
+}
